@@ -1,2 +1,4 @@
-# SentimentAnalysis
-Sentiment Analysis 
+# Sentiment-Analysis
+
+## Sentiment analysis of movies reviews from IMBD.
+
